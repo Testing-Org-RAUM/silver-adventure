@@ -1,3 +1,5 @@
+scripts:
+  buildCommand: nuxt build
 metadata:
   adapterPackageName: nitropack
   adapterVersion: 2.11.12
