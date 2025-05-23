@@ -1,0 +1,5 @@
+metadata:
+  adapterPackageName: nitropack
+  adapterVersion: 2.11.12
+  framework: nuxt
+  frameworkVersion: 3.17.4
